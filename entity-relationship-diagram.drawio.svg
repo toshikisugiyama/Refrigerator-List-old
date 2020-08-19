@@ -1,0 +1,421 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="961px" height="321px" viewBox="-0.5 -0.5 961 321" content="&lt;mxfile host=&quot;93c67f7b-d989-4ab0-9901-b8218daac42c&quot; modified=&quot;2020-08-19T06:59:05.140Z&quot; agent=&quot;5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.48.0 Chrome/78.0.3904.130 Electron/7.3.2 Safari/537.36&quot; etag=&quot;B9S2xa5b2bY2Lge4G6sS&quot; version=&quot;13.1.3&quot;&gt;&lt;diagram id=&quot;6hGFLwfOUW9BJ-s0fimq&quot; name=&quot;Page-1&quot;&gt;7VxLk+I2EP41VCWH3cI2MMxxXrt7yFZSmVRlc5oStjDKyJYjywPsr0/Llt/24AGBgfJhKOnTq/V1u7slw4ysB2/zlaNg9Z05mI7MsbMZWY8j05xNTfiUwDYBjOnNJEFcThyF5cAz+YkVOFZoRBwcljoKxqggQRm0me9jW5QwxDlbl7stGS2vGiAX14BnG9E6+jdxxCpB5+ZNjn/DxF2lKxuz26TFQ2lntZNwhRy2LkDW08h64IyJpORtHjCV5KW8JOO+tLRmgnHsiy4DrGTAG6KR2puSS2zTzYKIgSwSX2DuI/osGI/5uV+viMDPAbJl8xpUDdhKeBRqBhQXyH51OYt85/dIUOJjhcd2MJYFqf+JLNXFVjt5w1zgTQFS2/iKmYcF30IXZUQTxeg6V0iGrQrKMMcKRMoI3GyqnCcoKKqaaZtcPm2q1UotsQ8ap1dD42xSpvGTWecxo7rIYwYewuOsgccZhRXuCRRcEe8xARZVYMlg00XKZ/9FLG34FMa+9w46mGawyRvTWaIQ8zCdCsRMZiuvAHBtVcAKolV0DpyLsjIRJa4PZRtLMwBAaoaAQ75TDR5xHNpmFbEVYEfp/YS+ZqJBtze96ZbjJScu5ggeuRPoOBScveIHRhko+NFn8om9XxJKK9C52MKBDlSHbdz2ZhtArDfYhPZooMMostQyJxY7kL6qKuNixVwGofQpRysU5H1+YyxQuvgXC7FVuTiKBKtqCnFxJ3NrAJ7+TNQSg1+IFDWeF/tO3uUn5uwv9h3526RF9TOSmlrIHKfTFAHQDN/+yCaFyj+y8nmaVh83xcbHbVrbEPEjXQPKhVFQywfJynaXOYQs4jYupdEgp4tTVSaQpP5dk+GYIkHeyieLJv2roX8wEj+4m0oepkzNsiomlMikRhVPAtWJKjZr3FQmSvZbmyg2x2w/nSzUaDp1JP4hol18kjFv8knpHLTm/DIAJGh0RBlWH/vObD7ysM75sIcI1TlhgMJwzbjWTdscI4GdFyR0zhoFzr6zAiit5mgxheKl6D3jnNcDiDFrCCAZeFAEqR/DThBBdjl9vRFmj0iwb9TpFEEm9QgyPU0EsW7NSgI77eT4axNNjWomXJmoJRTtE0HaT7zHiSBhgPz9o0rT6I4e8t2F5en7pbfV43vUfpbuHISOxnzXeNVZgOsOYy2H5ZOGNaP9KmVBmf0qnQFudB4eOC7iJ55jXPibjKUXSbgZLyDRkmdP2SnmPm0IkOMQ31XD3/M78sRckKTcWLSO3GYPdXWHpsba1i/eNu32accWBjKIXgWwGY08v18Z9j7eaJMAbwICBkGY/yLdbb/CBCsm2EvE9zuh6bOMw85f2uTQd2K7HBc8yDjIOMh4TTJeZ5pdff/Q8PohuzcuvdSfa0izG78ccQm2UDz27RsmfyG++LWwTtPxb8Ev6xnRwgs8RyDEQM1AzUCNFmpk9v1xYo666HUG0+zuqf3Oat4QS/W8iWn6htzlmPglyNhHvB/WvFQXd8kBZ5BxkHGQcZDxtDJeZ1I4SVO+PpLC9i8/nLcpDBcsBzzGrcuXhI/lLX6WtnAWGtyhvDM0j4H6D1Nf57g3deuhLN/QcCnVro7rPTwNF5nnZTPDReaHc9b57reCRtOPkvZ5KwjV/EfsyRd8838FYD39Dw==&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <rect x="0" y="60" width="240" height="200" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+        <path d="M 0 100 L 240 100" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 60 L 0 260" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="320" y="60" width="240" height="200" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+        <path d="M 320 100 L 560 100" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 320 60 L 320 260" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="640" y="0" width="320" height="320" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+        <path d="M 640 40 L 960 40" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 640 0 L 640 320" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="0" y="60" width="240" height="40" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 238px; height: 1px; padding-top: 80px; margin-left: 1px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <i>
+                                    <b>
+                                        <font style="font-size: 22px">
+                                            users
+                                        </font>
+                                    </b>
+                                </i>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="120" y="84" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    users
+                </text>
+            </switch>
+        </g>
+        <rect x="320" y="60" width="240" height="40" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 238px; height: 1px; padding-top: 80px; margin-left: 321px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <i>
+                                    <b>
+                                        <font style="font-size: 22px">
+                                            refrigerators
+                                        </font>
+                                    </b>
+                                </i>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="440" y="84" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    refrigerators
+                </text>
+            </switch>
+        </g>
+        <rect x="640" y="0" width="320" height="40" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 318px; height: 1px; padding-top: 20px; margin-left: 641px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <i>
+                                    <b>
+                                        <font style="font-size: 22px">
+                                            items
+                                        </font>
+                                    </b>
+                                </i>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="800" y="24" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    items
+                </text>
+            </switch>
+        </g>
+        <path d="M 240 160 L 320 160" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 251 149 L 251 171" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <ellipse cx="287" cy="160" rx="10" ry="10" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+        <path d="M 320 149 L 298 160 L 320 171" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="0" y="100" width="160" height="160" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 158px; height: 1px; padding-top: 180px; margin-left: 2px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <ul style="font-size: 18px">
+                                    <li>
+                                        <i>
+                                            id
+                                        </i>
+                                    </li>
+                                    <li>
+                                        <i>
+                                            name
+                                        </i>
+                                    </li>
+                                    <li>
+                                        <i>
+                                            email
+                                        </i>
+                                    </li>
+                                    <li>
+                                        <i>
+                                            password
+                                        </i>
+                                    </li>
+                                    <li>
+                                        <i>
+                                            created_at
+                                        </i>
+                                    </li>
+                                    <li>
+                                        <i>
+                                            updated_at
+                                        </i>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="2" y="184" fill="#000000" font-family="Helvetica" font-size="12px">
+                    idnameemailpasswordcreated...
+                </text>
+            </switch>
+        </g>
+        <path d="M 560 160 L 640 160" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 571 149 L 571 171" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <ellipse cx="607" cy="160" rx="10" ry="10" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+        <path d="M 640 149 L 618 160 L 640 171" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="320" y="100" width="160" height="160" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 158px; height: 1px; padding-top: 180px; margin-left: 322px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <ul style="font-size: 18px">
+                                    <li>
+                                        <span>
+                                            <i>
+                                                id
+                                            </i>
+                                        </span>
+                                    </li>
+                                    <li>
+                                        <span>
+                                            <i>
+                                                user_id
+                                            </i>
+                                        </span>
+                                    </li>
+                                    <li>
+                                        <span>
+                                            <i>
+                                                rows
+                                            </i>
+                                        </span>
+                                    </li>
+                                    <li>
+                                        <span>
+                                            <i>
+                                                created_at
+                                            </i>
+                                        </span>
+                                    </li>
+                                    <li>
+                                        <span>
+                                            <i>
+                                                updated_at
+                                            </i>
+                                        </span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="322" y="184" fill="#000000" font-family="Helvetica" font-size="12px">
+                    iduser_idrowscreated_atupd...
+                </text>
+            </switch>
+        </g>
+        <rect x="640" y="40" width="200" height="280" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 198px; height: 1px; padding-top: 180px; margin-left: 642px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
+                                <ul>
+                                    <li style="font-size: 18px">
+                                        <i>
+                                            id
+                                        </i>
+                                    </li>
+                                    <li style="font-size: 18px">
+                                        <i>
+                                            refrigerator_id
+                                        </i>
+                                    </li>
+                                    <li style="font-size: 18px">
+                                        <i>
+                                            row
+                                        </i>
+                                    </li>
+                                    <li style="font-size: 18px">
+                                        <i>
+                                            column
+                                        </i>
+                                    </li>
+                                    <li style="font-size: 18px">
+                                        <i>
+                                            name
+                                        </i>
+                                    </li>
+                                    <li style="font-size: 18px">
+                                        <i>
+                                            expiration_date
+                                        </i>
+                                    </li>
+                                    <li style="font-size: 18px">
+                                        <i>
+                                            photo_url
+                                        </i>
+                                    </li>
+                                    <li style="font-size: 18px">
+                                        <i>
+                                            created_at
+                                        </i>
+                                    </li>
+                                    <li style="font-size: 18px">
+                                        <i>
+                                            updated_at
+                                        </i>
+                                    </li>
+                                </ul>
+                                <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
+                                <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
+                                <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
+                                <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
+                                <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
+                                <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
+                                <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="642" y="184" fill="#000000" font-family="Helvetica" font-size="12px">
+                    idrefrigerator_idrowcolumnnameexp...
+                </text>
+            </switch>
+        </g>
+        <rect x="160" y="100" width="80" height="160" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 78px; height: 1px; padding-top: 180px; margin-left: 162px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
+                                <span style="font-size: 18px">
+                                    (int)
+                                </span>
+                                <br/>
+                                <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
+                                <span style="font-size: 18px">
+                                    (string)
+                                </span>
+                                <br/>
+                                <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
+                                <span style="font-size: 18px">
+                                    (string)
+                                </span>
+                                <br/>
+                                <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
+                                <span style="font-size: 18px">
+                                    (string)
+                                </span>
+                                <br/>
+                                <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
+                                <span style="font-size: 18px">
+                                    (date)
+                                </span>
+                                <br/>
+                                <span style="font-size: 18px">
+                                    (date)
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="162" y="184" fill="#000000" font-family="Helvetica" font-size="12px">
+                    (int)...
+                </text>
+            </switch>
+        </g>
+        <rect x="480" y="100" width="80" height="160" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 78px; height: 1px; padding-top: 180px; margin-left: 482px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
+                                <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
+                                <span style="font-size: 18px">
+                                    (int)
+                                </span>
+                                <br/>
+                                <span style="font-size: 18px">
+                                    (int)
+                                </span>
+                                <br/>
+                                <span style="font-size: 18px">
+                                    (int)
+                                </span>
+                                <br/>
+                                <span style="font-size: 18px">
+                                    (date)
+                                </span>
+                                <br/>
+                                <span style="font-size: 18px">
+                                    (date)
+                                </span>
+                                <br/>
+                                <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
+                                <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
+                                <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
+                                <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
+                                <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
+                                <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
+                                <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
+                                <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="482" y="184" fill="#000000" font-family="Helvetica" font-size="12px">
+                    (int)...
+                </text>
+            </switch>
+        </g>
+        <rect x="840" y="40" width="120" height="280" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 118px; height: 1px; padding-top: 180px; margin-left: 842px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
+                                <span style="font-size: 18px">
+                                    (int)
+                                </span>
+                                <br/>
+                                <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
+                                <blockquote style="border: none ; margin: 0px 0px 0px 40px ; padding: 0px"></blockquote>
+                                <span style="font-size: 18px"></span>
+                                <span style="font-size: 18px">
+                                    (int)
+                                </span>
+                                <br/>
+                                <blockquote style="border: none ; margin: 0px 0px 0px 40px ; padding: 0px"></blockquote>
+                                <span style="font-size: 18px"></span>
+                                <span style="font-size: 18px">
+                                    (int)
+                                    <br/>
+                                </span>
+                                <span style="font-size: 18px">
+                                    (int)
+                                </span>
+                                <span style="font-size: 18px">
+                                    <br/>
+                                    (string)
+                                </span>
+                                <br/>
+                                <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
+                                <span style="font-size: 18px">
+                                    (date)
+                                </span>
+                                <br/>
+                                <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
+                                <span style="font-size: 18px">
+                                    (string)
+                                </span>
+                                <br/>
+                                <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
+                                <span style="font-size: 18px">
+                                    (date)
+                                </span>
+                                <br/>
+                                <span style="font-size: 18px">
+                                    (date)
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="842" y="184" fill="#000000" font-family="Helvetica" font-size="12px">
+                    (int)...
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://desk.draw.io/support/solutions/articles/16000042487" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>
